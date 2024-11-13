@@ -27,11 +27,11 @@ If you make use of our work, please cite our paper:
 
 ```
 @misc{tewel2024addit,
-        title={Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models},
-        author={Yoad Tewel and Rinon Gal and Dvir Samuel Yuval Atzmon and Lior Wolf and Gal Chechik},
-        year={2024},
-        eprint={2411.07232},
-        archivePrefix={arXiv},
-        primaryClass={cs.CV}
+    title={Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models},
+    author={Yoad Tewel and Rinon Gal and Dvir Samuel and Yuval Atzmon and Lior Wolf and Gal Chechik},
+    year={2024},
+    eprint={2411.07232},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
 }
 ```
