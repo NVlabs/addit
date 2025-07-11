@@ -1,0 +1,14 @@
+*.pyc
+*.parquet
+*.csv
+outputs/
+models_outputs/
+additing_set/source_imgs/
+additing_set/old/
+*.pdf
+*.zip
+affordance/source_images/
+affordance/extended_source_images/
+kaichun/
+out/
+flask_logs/

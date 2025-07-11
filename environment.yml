@@ -1,0 +1,29 @@
+name: addit
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.11.9
+  - pytorch==2.3.1
+  - pytorch-cuda=12.1
+  - torchvision=0.18.1
+  
+  - pip
+  - pip:
+      - diffusers @ git+https://github.com/huggingface/diffusers.git@15eb77bc4cf2ccb40781cb630b9a734b43cffcb8
+      - transformers==4.44.0
+      - scikit-image==0.24.0
+      - scipy==1.14.1
+      - numpy==1.26.4
+      - ipykernel
+      - matplotlib
+      - opencv-python
+      - accelerate==0.33.0
+      - sentencepiece==0.2.0
+      - protobuf==5.27.3
+      - pandas==2.2.2
+      - pyarrow
+      - fastparquet
+      - python-dotenv
+      - git+https://github.com/facebookresearch/sam2.git
