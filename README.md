@@ -151,13 +151,13 @@ The notebooks contain examples of different prompts and parameters that can be a
 If you make use of our work, please cite our paper:
 
 ```bibtex
-@misc{tewel2024addit,
+@inproceedings{
+    tewel2025addit,
     title={Add-it: Training-Free Object Insertion in Images With Pretrained Diffusion Models},
     author={Yoad Tewel and Rinon Gal and Dvir Samuel and Yuval Atzmon and Lior Wolf and Gal Chechik},
-    year={2024},
-    eprint={2411.07232},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=ZeaTvXw080}
 }
 ```
 
