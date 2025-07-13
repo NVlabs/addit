@@ -5,6 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2411.07232-b31b1b.svg)](https://arxiv.org/abs/2411.07232)
 [![ICLR 2025](https://img.shields.io/badge/ICLR-2025-brightgreen.svg)](https://openreview.net/forum?id=ZeaTvXw080)
 [![Project Website](https://img.shields.io/badge/🌐-Project%20Website-blue)](https://research.nvidia.com/labs/par/addit/)
+[![Demo](https://img.shields.io/badge/🤗-Demo-yellow)](https://huggingface.co/spaces/nvidia/addit)
 
 </div>
 
